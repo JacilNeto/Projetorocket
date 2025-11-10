@@ -23,11 +23,13 @@ width="100%">
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--HTML e CSS
--JavaScript
--Git e Github
--💻 Projeto
--Figma
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/mMRZhDEgUjst6sSOoyzy4L/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=0-1&p=f&t=mqRyndhtWjumdWz2-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
